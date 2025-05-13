@@ -3,8 +3,8 @@
 **Authors:** Jing Xia, Siyuan Liu, Yunyu Guo, Yuqing Qiao
 
 **Implementation Code:**
-*   `CS5100 final proj.ipynb`
-*   `ShadowModel - Privacy ML.ipynb`
+*   `CS5100 final proj.ipynb`https://colab.research.google.com/drive/18Sc759kyVsH2GvfdPjZjGCbBlAn0BTDf?usp=sharing
+*   `ShadowModel - Privacy ML.ipynb`https://colab.research.google.com/drive/1rv5yAovyFdSuGjnoTb3Htxh1EneNeuK6?usp=sharing
 
 ## Introduction
 
